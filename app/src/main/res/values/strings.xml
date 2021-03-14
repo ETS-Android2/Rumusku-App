@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Rumusku</string>
+    <string name="tab2">Bangun Ruang</string>
+    <string name="tab1">Bangun Datar</string><string name="rumusku">Rumusku.</string>
+    <string name="version">v 1.0</string>
+    <string name="search_hint">Cari Rumus…</string>
+    <string name="unknown">Unknown</string>
+    <string name="dot">.</string>
+    <string name="result">Jawaban</string>
+    <string name="formula">K = 4 x s</string>
+    <string name="var">K</string>
+    <string name="resultSentence">\nJadi hasil perhitungan dari angka yang dimasukan</string>
+    <string name="resultCount">"18"</string>
+    <string name="back">Kembali</string>
+    <string name="loadSentence1">"Rumus untuk mencari "</string>
+    <string name="loadSentence2">adalah</string>
+    <string name="loadSentence3">Cobalah masukan nilai sisi yang kamu punya dan hitung!</string>
+    <string name="loadSentence4">Masukan nilai</string>
+    <string name="resultButton">Hitung</string>
+    <string name="amount">"= "</string>
+    <string name="exitTitle">Keluar dari Rumusku</string>
+    <string name="exitMessage">Berikan kami penilaian di PlayStore?</string>
+    <string name="yes">Iya</string>
+    <string name="no">Batal</string>
+    <string name="later">Nanti Saja</string>
+    <string name="s">s</string>
+    <string name="p">p</string>
+    <string name="l">l</string>
+    <string name="ab">AB</string>
+    <string name="bc">BC</string>
+    <string name="ac">AC</string>
+    <string name="cd">CD</string>
+    <string name="ad">AD</string>
+    <string name="da">DA</string>
+    <string name="r">r</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+</resources>
